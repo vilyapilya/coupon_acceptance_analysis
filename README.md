@@ -3,6 +3,8 @@
 This project explores what influences people's decisions to accept coffee house coupons while driving.
 The goal of the analysis was to understand which factors make drivers more likely to accept a coupon offer. I looked at passenger absence/presence, their types, weather conditions, time of day, distance to the coffee house, and customer habbits and social groups.
 
+[Link to the file](https://github.com/vilyapilya/coupon_acceptance_analysis/blob/main/prompt.ipynb)
+
 ## Key Questions
 This analysis explored questions such as:
 - Does weather influence coupon acceptance?
