@@ -37,3 +37,21 @@ Based on the findings, several actions could improve coupon acceptance:
 - Priorituze cooler sunny conditions for coupon distribution
 - Distribute coupons within 5 min away from the coffee house
 
+# Bar Coupon Acceptance Rate.
+**41% of bar coupons were accepted.**
+
+🍷 Drivers who visit bars more than 3 times per month are approximately 2 times more likely to accept the bar coupon compared to others.
+
+👨🏻 Drivers who are older than 25 years old and visit bars at least once per month are also approximately 2 times more likely to accept the bar coupon.
+
+👯‍♂️ Regular bar visitors who are driving with an adult passenger and whose occupation does not include agriculture (farming, forestry, fishing) are approximately 2 times more likely to accept bar coupons.
+
+👩🏼‍🦱 👨🏻Approximately the same acceptance rate is observed for regular bar visitors who are driving with adult passengers and who are not widowed.
+General conclusion:
+## Recommended Actions
+ - Target frequent bar visitors (more than 3 times per month)
+ - Target drivers older than 25 years old and regular bar visitors
+ - Target drivers with adult passangers who are not widowed and not occupied in agriculture 
+
+
+
