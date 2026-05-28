@@ -34,7 +34,7 @@ Healthcare workers had one of the highest coupon acceptance rates among occupati
 Based on the findings, several actions could improve coupon acceptance:
 - Target people who frequently visit coffee houses (at least 1 per month, ideally more than 3 times per month)
 - Target population younger than 30 with adult passangers
-- Distribute coupons on weekends or holidays at 10 AM will have a higher rate of acceptance
+- Distribute coupons on weekends or holidays at 10 AM.
 - Distribute coupons in the areas around healthcare facilities, or places with personal care businesses ideally around 10AM or 2PM
 - Priorituze cooler sunny conditions for coupon distribution
 - Distribute coupons within 5 min away from the coffee house
