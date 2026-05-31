@@ -36,7 +36,7 @@ Based on the findings, several actions could improve coupon acceptance:
 - Target population younger than 30 with adult passangers
 - Distribute coupons on weekends or holidays at 10 AM.
 - Distribute coupons in the areas around healthcare facilities, or places with personal care businesses ideally around 10AM or 2PM
-- Priorituze cooler sunny conditions for coupon distribution
+- Prioritize cooler sunny conditions for coupon distribution
 - Distribute coupons within 5 min away from the coffee house
 
 # Bar Coupon Acceptance Rate.
